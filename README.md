@@ -35,7 +35,7 @@ Inspired by designs by NikodemBartnik https://indystry.cc/author/nikodembartnik/
 
 ## Software
 - Universal Gcode Sender (latest version)
-- FreeCAD 1.0
+- FreeCAD 1.0 or any other CAM software
 - Inkscape
 
 ## Images
