@@ -1,8 +1,8 @@
 # DIY CNC Mill V1
 
 ## Description
-A CNC Mill made using Arduino UNO, GRBL, NEMA17 stepper motors, 3D printed parts
-Inspired by designs by NikodemBartnik https://indystry.cc/author/nikodembartnik/
+A CNC Mill made using Arduino UNO, GRBL, NEMA17 stepper motors, 3D printed parts.
+Inspired by designs by NikodemBartnik. https://indystry.cc/author/nikodembartnik/
 
 ## Hardware
 - Arduino UNO
@@ -50,10 +50,10 @@ Inspired by designs by NikodemBartnik https://indystry.cc/author/nikodembartnik/
 - <img width="689" height="892" alt="image" src="https://github.com/user-attachments/assets/c8f942be-76e7-448d-9f93-829f35fc8680" />
 
 ## Results
-- Accuracy within 0.05 millimeters
-- Speed of upto 100 mm/s
-- No drift recorded so far
-- More tests being conducted
+- Accuracy within 0.05 millimeters.
+- Speed of upto 120 mm/s.
+- No drift or histeresis recorded so far.
+- More tests being conducted.
 
 
 
